@@ -2,7 +2,6 @@ package com.blacknall.JavAES;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-@Lazy
 @SpringBootApplication
 public class JavAesApplication {
 
